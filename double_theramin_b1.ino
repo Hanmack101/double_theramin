@@ -16,6 +16,7 @@
 
   This example code is part of the public domain.
   adding new change
+  secondary chage
 */
 //first sensor
 // variable to hold sensor values
