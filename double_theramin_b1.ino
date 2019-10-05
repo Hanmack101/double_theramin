@@ -12,6 +12,7 @@
   created 13 Sep 2012
   by Scott Fitzgerald
   third change 
+  change to branch
 
   http://www.arduino.cc/starterKit
 
