@@ -15,6 +15,7 @@
   http://www.arduino.cc/starterKit
 
   This example code is part of the public domain.
+  adding new change
 */
 //first sensor
 // variable to hold sensor values
