@@ -11,6 +11,7 @@
 
   created 13 Sep 2012
   by Scott Fitzgerald
+  third change 
 
   http://www.arduino.cc/starterKit
 
